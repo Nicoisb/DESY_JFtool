@@ -1,0 +1,84 @@
+Pakete die oben aufgelistet sind
+
+ACAD_Mech_2012_DESY_de
+ACAD_Mech_2012_DESY_en
+ACAD_Mech_2012_CADBAS_de
+ACAD_Mech_2012_CADBAS_tst_de
+SolidEdge_ST6_DESY
+SolidEdge_ST6en_DESY
+SolidEdge_ST6_CADENAS
+SolidEdge_ST8_DESY
+SolidEdge_ST8en_DESY
+SolidEdge_ST8_Viewer
+SolidEdge_ST8_CADENAS
+IDEAS61
+IDEAS61ZN
+NX100
+EDMS
+EDMS Viewer
+EDMS Mockup
+FMS
+GinfoKomplett
+GinfoMobil
+GISFMS2WEB
+GIS
+BauCADBauwesen
+BauCADSicherheit
+BauCADIT
+BauCADTGA
+Adobe 10 (de/en)
+E3.series (de)
+AdressPLUS
+PrjPro2007
+Cisco IP Communicator 2.0.1.1 (de)
+AMS_AssetCenter_5.01
+MS Project 2010 Standard (de/en)
+MS Visio 2010 Premium (de/en)
+MS Visio 2010 Professional (de/en)
+MS Visio 2010 Standard (de/en)
+UltraEdit 17 (en)
+Machine Control
+Machine Control Zeuthen
+
+Pakete die unten aufgelistet sind
+
+ACAD_Mech_2012_DESY_de
+ACAD_Mech_2012_DESY_en
+ACAD_Mech_2012_CADBAS_de
+ACAD_Mech_2012_CADBAS_tst_de
+SolidEdge_ST6_DESY
+SolidEdge_ST8_DESY
+SolidEdge_ST6en_DESY
+SolidEdge_ST8en_DESY
+SolidEdge_ST6_CADENAS
+SolidEdge_ST8_CADENAS
+SolidEdge_ST8_Viewer
+IDEAS61
+IDEAS61ZN
+NX100
+EDMS
+EDMS Viewer
+EDMS Mockup
+FMS
+GinfoKomplett
+GinfoMobil
+GISFMS2WEB
+GIS
+BauCADTGA
+BauCADBauwesen
+BauCADIT
+BauCADSicherheit
+E3.series (de)
+AdressPLUS
+PrjPro2007
+Cisco IP Communicator 2.0.1.1 (de)
+AMS_AssetCenter_5.01
+Adobe Acrobat DC (de/en)
+Adobe Acrobat 10 (de/en)
+MS Project 2010 Standard (de/en)
+MS Visio 2010 Premium (de/en)
+MS Visio 2010 Professional (de/en)
+MS Visio 2010 Standard (de/en)
+UltraEdit 17 (en)
+Machine Control
+Machine Control Zeuthen

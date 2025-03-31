@@ -1,0 +1,237 @@
+Change or set remaining work-time in the next row (in minutes)
+close_Time=15
+#Deutsch(german)
+titleGUI=DSM Freischaltungstool
+labelTitelRelease=Neue Freigabe
+tooltiplabelTitelRelease=
+
+labelLegend=Pflichtfeld
+tooltiplabelLegend=
+
+labelUndertitelRelease=Ausgewählter Rechner: 
+tooltiplabelUndertitelRelease=
+
+labelPickPackage=Wähle Paket
+tooltiplabelPickPackage=
+
+labelReleaseName=Name des Produktbenutzers
+tooltiplabelReleaseName=
+
+labelReleaseGroup=Name der Gruppe
+tooltiplabelReleaseGroup=
+
+labelReleaseComment=Kommentar
+tooltiplabelReleaseComment=
+
+labelTitelEdit=Freigegebene Pakete bearbeiten
+tooltiplabelTitelEdit=
+
+labelEditTransfer=Übertragung eines Paketes
+tooltiplabelEditTransfer=
+
+labelEditPCName=Name des neuen Rechners
+tooltiplabelEditPCName=
+
+labelEditName=Name des Produktbenutzers
+tooltiplabelEditName=
+
+labelEditGroup=Name der Gruppe
+tooltiplabelEditGroup=
+
+labelEditComment=Kommentar
+tooltiplabelEditComment=
+
+labelCountdown=Verbleibende Bearbeitungszeit: 
+tooltipLabelCountdown=Nach Ablauf der Zeit schließt sich die Anwendung.
+
+labelEditInfoDelete=löscht das ausgewählte Paket für den ausgewählten Rechner
+tooltiplabelEditInfoDelete=
+
+labelMainTitel=Rechnereingabe
+tooltiplabelMainTitel=
+
+labelSearch=Rechnername
+tooltiplabelSearch=
+
+labelEditInfoPackages=Keine Pakete vorhanden
+tooltiplabelEditInfoPackages=
+
+labelEditDelete=Löschung eines freigegebenen Paketes
+tooltiplabelEditDelete=
+
+buttonReleaseSave=Abspeichern
+tooltipbuttonReleaseSave=
+
+buttonEditDelete=Löschen
+tooltipButtonEditDelete=Beim löschen wird das Paket deinstalliert.
+
+buttonBack=Zurück zur Suche
+tooltipbuttonBack=
+
+buttonEditSave=Abspeichern
+tooltipbuttonEditSave=
+
+buttonSearch=Weiter
+tooltipbuttonSearch=
+
+buttonExit=Schließen
+tooltipbuttonExit=
+
+checkBoxEntry=Eingaben beibehalten
+tooltipcheckBoxEdit=Bei Aktivierung werden die Eingaben nicht nach dem Speichervorgang entfernt
+tooltipcheckBoxRelease=Bei Aktivierung werden die Eingaben nicht nach dem Speichervorgang entfernt
+
+checkBoxNsLookup=Rechnerüberprüfung
+tooltipcheckBoxNsLookup=<html>Bei Deaktivierung wird nicht überprüft, ob es den eingegebenen Rechner im Netzwerk gibt. <br> (Diese Option ist hilfreich falls ein Rechner noch nicht im Netzwerk eingetragen ist)</html>
+
+comboLanguage=Wähle Sprache
+comboBoxPackages=Wähle Paket
+
+tooltipcomboGroup=
+labelGroup=Gruppe: 
+
+labelStatus=StatusBar
+tooltiplabelStatus=
+
+infoTitle=Hinweis
+infoFileInUse=Die Datei wird zurzeit von folgendem Account bearbeitet: 
+infoPCNotFound=Die Rechnerüberprüfung hat ergeben, dass es den eingegebenen Rechner nicht im Netzwerk gibt.
+infoEmptyFields=Bitte füllen Sie alle nötigen Felder aus.
+infoEditNoPackageSelected=Sie haben noch kein Paket zu Freigabe ausgewählt.
+infoDeleteNoPackageSelected=Sie haben noch kein Paket ausgewählt.
+infoPackageAlreadyApproved=Das ausgewählte Paket ist bereits freigegeben.
+infoPackageAlreadyApprovedThroughAMS=Das Paket wurde während Ihrer Bearbeitungszeit vom AMS freigegeben.
+infoSaveReleaseSuccess=Das ausgewählte Paket wurde eingetragen.
+infoDeleteSuccess=Das ausgewählte Paket wurde erfolgreich gelöscht.
+infoTransferSuccess=Das ausgewählte Paket wurde vom alten Rechner auf den neuen Übertragen und der alte Eintrag auskommentiert.
+infoClosedByTime=Die Anwendung wird aufgrund der Überschreitung der Arbeitszeit geschlossen. Alle bisher getätigten Vorgänge wurden trotzdem ausgeführt.
+infoBlockedByAMS=Das AMS greift zurzeit auf das Initialisierungsdatei zu.
+infoAlreadyDeletedByAMS=Das AMS hat während Ihrer Bearbeitungszeit das Paket schon gelöscht.
+infoTransferPackageAlreadyApproved=Das ausgewählte Paket ist bereits für den neuen Rechner freigegeben.
+infoAboutApplication=Diese Anwendung dient zur Eintragung und Bearbeitung von Paketfreigaben in der Initialisierungsdatei für das AMS.
+
+dialogDeleteTitle=Hinweis
+dialogDeleteText=Das Paket wird nach dem Löschen deinstalliert.
+dialogEditText=Das Paket wird nach der Übertragung vom vorherigen Rechner deinstalliert.
+dialogDeleteOk=Ok
+dialogDeleteCancel=Abbrechen
+dialogAMSBlockRepeat=Wiederholen
+dialogAMSBlockCancel=Abbrechen
+
+#English(english)
+titleGUI=DSM Activation Tool
+labelTitelRelease=New Release
+tooltiplabelTitelRelease=
+
+labelLegend=required field
+tooltiplabelLegend=
+
+labelUndertitelRelease=Chosen computer: 
+tooltiplabelUndertitelRelease=
+
+labelPickPackage=Choose package
+tooltip=
+
+labelReleaseName=Name of product user
+tooltiplabelReleaseName=
+
+labelReleaseGroup=Name of the group
+tooltiplabelReleaseGroup=
+
+labelReleaseComment=Comment
+tooltiplabelReleaseComment=
+
+labelTitelEdit=Edit approved packages
+tooltiplabelTitelEdit=
+
+labelEditTransfer=Transfer of a package
+tooltiplabelEditTransfer=
+
+labelEditPCName=Name of the new computer
+tooltiplabelEditPCName=
+
+labelEditName=Name of productuser
+tooltiplabelEditName=
+
+labelEditGroup=Name of the group
+tooltiplabelEditGroup=
+
+labelEditComment=Comment
+tooltiplabelEditComment=
+
+labelCountdown=remaining working time: 
+tooltipLabelCountdown=After times end the application will be closed.
+
+labelEditInfoDelete=delete the choosen package for the entered computer
+tooltiplabelEditInfoDelete=
+
+labelMainTitel=Enter Computer
+tooltiplabelMainTitel=
+
+labelSearch=Computername
+tooltiplabelSearch=
+
+labelEditInfoPackages=no approved packages
+tooltiplabelEditInfoPackages=
+
+labelEditDelete=Delete approved package
+tooltiplabelEditDelete=
+
+buttonReleaseSave=Save
+tooltipbuttonReleaseSave=
+
+buttonEditDelete=Delete
+tooltipButtonEditDelete=Deleting leads to a uninstall of the package.
+
+buttonBack=Back to search
+tooltipbuttonBack=
+
+buttonEditSave=Save
+tooltipbuttonEditSave=
+
+buttonSearch=continue
+tooltipbuttonSearch=
+
+buttonExit=Exit
+tooltipbuttonExit=
+
+checkBoxEntry=save entries
+tooltipcheckBoxEdit=if activatet: entries will not be delete after saving
+tooltipcheckBoxRelease=if activatet: entries will not be delete after saving
+
+checkBoxNsLookup=check PC
+tooltipcheckBoxNsLookup=<html>if deactivated: the entered PC will not be searched in the network <br>(This option is usefull if the searched PC is not registered in the network) </html>
+
+comboLanguage=Choose language
+comboBoxPackages=Choose package
+
+tooltipcomboGroup=
+labelGroup=Group: 
+
+labelStatus=StatusBar
+tooltiplabelStatus=
+
+infoTitle=Hint
+infoFileInUse=The file is currently edited by 
+infoPCNotFound=NSLookup reveals that the pc doesn't exist in the network
+infoEmptyFields=Please fill all required fields.
+infoEditNoPackageSelected=You have not choose a package for release.
+infoDeleteNoPackageSelected=You have not choose a package.
+infoPackageAlreadyApproved=The chosen package is already approved.
+infoPackageAlreadyApprovedThroughAMS=The chosen package was approved through AMS during your work-time. 
+infoSaveReleaseSuccess=The chosen package was registered.
+infoDeleteSuccess=The package was successfully deleted.
+infoTransferSuccess=The chosen package is tranfered on the new pc and the old entry was comment out.
+infoClosedByTime=Application was closed, because the working time is overrun. All done activities are executed.
+infoBlockedByAMS=The AMS is currently editing the initialization-file. Please try it again in a few seconds.
+infoAlreadyDeletedByAMS=The AMS has deleted the package during your work-time.
+infoTransferPackageAlreadyApproved=The chosen package is already approved for the new PC.
+infoAboutApplication=This application serves to approve and edited packages.
+
+dialogDeleteTitle=Hint
+dialogDeleteText=Delete lead to deinstallation of the package.
+dialogEditText= The Transfer of the package lead to deinstallation of the package on the old pc.
+dialogDeleteOk=Ok
+dialogDeleteCancel=Cancel
+dialogAMSBlockRepeat=Repeat
+dialogAMSBlockCancel=Cancel
