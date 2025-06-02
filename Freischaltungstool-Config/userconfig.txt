@@ -1,2 +1,0 @@
-helgas=IT,Deutsch(german)
-znabrp=IT,Deutsch(german)
